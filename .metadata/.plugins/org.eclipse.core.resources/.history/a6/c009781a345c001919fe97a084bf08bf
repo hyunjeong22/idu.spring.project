@@ -1,0 +1,4 @@
+spring.mustache.suffix:.html
+server.port = 9000
+spring.wvc.view.prefix=/WEB-INF/jsp/
+spring.wvc.view.prefix=.jsp
